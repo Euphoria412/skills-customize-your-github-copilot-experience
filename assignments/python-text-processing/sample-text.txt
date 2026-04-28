@@ -1,0 +1,5 @@
+Python is a powerful tool for working with text. Text processing helps students clean, analyze, and transform data.
+
+This assignment practices string manipulation, file input/output, and word counting in Python.
+
+Use functions to read the file, clean punctuation, count words, and save the processed output.

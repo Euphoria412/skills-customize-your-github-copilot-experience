@@ -41,6 +41,91 @@
       ]
     },
     {
+      "id": "data-structures-python",
+      "title": "Data Structures in Python",
+      "description": "Practice using lists, dictionaries, sets, and tuples.",
+      "path": "assignments/data-structures-python",
+      "dueDate": "2026-05-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Work with strings, file I/O, and text manipulation in Python.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-05-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Text",
+          "file": "sample-text.txt",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Using matplotlib or plotly to create charts and graphs.",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-05-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "sample-data.csv",
+          "type": "csv"
+        }
+      ]
+    },
+    {
+      "id": "statistics-python",
+      "title": "Statistics with Python",
+      "description": "Data analysis and statistical calculations using pandas and numpy.",
+      "path": "assignments/statistics-python",
+      "dueDate": "2026-05-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sample-stats.csv",
+          "type": "csv"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create REST endpoints with FastAPI and handle JSON requests and responses.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-05-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
